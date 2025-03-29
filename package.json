@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/cli": "^9.1.13",
+    "g": "^2.0.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "^5.6.0"
+  }
+}
